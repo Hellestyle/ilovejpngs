@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name            = "ilovejpngs"
-version         = "0.1.0"
+version         = "0.1.1"
 description     = "A Python library for working with JPEG/PNG images."
 readme          = "README.md"
 requires-python = ">=3.10"
@@ -27,9 +27,9 @@ ilovejpngs = "ilovejpngs:main"
 
 
 [project.urls]
-Homepage   = "https://github.com/your-user/ilovejpngs"
-Repository = "https://github.com/your-user/ilovejpngs"
-Issues     = "https://github.com/your-user/ilovejpngs/issues"
+Homepage   = "https://github.com/Hellestyle/ilovejpngs"
+Repository = "https://github.com/Hellestyle/ilovejpngs"
+Issues     = "https://github.com/Hellestyle/ilovejpngs/issues"
 
 [tool.setuptools]
 package-dir = { "" = "src" }
